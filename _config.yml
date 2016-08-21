@@ -1,14 +1,14 @@
-layout_spectrum: 0.3468149022664875
-typography_spectrum: 0.033659072825685143
+layout_spectrum: 0.6351840607821941
+typography_spectrum: 0.37033878290094435
 color:
-  brandStrength: 0.7261208051349968
-  lightness: 0.9527589178178459
-  saturation: 0.44073453452438116
-  rhythmicContrast: 0.43659198726527393
+  brandStrength: 0.23926789686083794
+  lightness: 0.9202528081368655
+  saturation: 0.03465734678320587
+  rhythmicContrast: 0.041541792219504714
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
 name: LetsRideNatomas
