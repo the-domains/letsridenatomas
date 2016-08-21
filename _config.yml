@@ -1,4 +1,3 @@
-layout_spectrum: 0.3468149022664875
 typography_spectrum: 0.033659072825685143
 color:
   brandStrength: 0.7261208051349968
@@ -11,4 +10,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.3468149022664875
 name: LetsRideNatomas
+title: |
+  N.Natomas Women's 
+  Cycling Group
